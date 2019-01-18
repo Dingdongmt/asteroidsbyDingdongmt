@@ -1,0 +1,34 @@
+start the game:-
+click the play and pause button to start and stop the game.
+
+
+
+arrows keys to move the player ship:-
+Up to go up.
+down to go down.
+left to go left.
+right to go right.
+
+
+
+to shoot:-
+press the space on you key bord to shoot the bullet.
+
+
+
+music:-
+click the picturebox that looks like a file to open the song file.
+after you have choosen "WAV" file.
+you can click on  the speaker picture and it will start to play the song.
+
+
+
+highscore:-
+you need to add name you need to click add name.
+you need to add score you need to click add name.
+To clear the name and score click clear file.
+To enter highscore you can eneter by clicking highscore.
+
+
+to quit:-
+you can click on the exit picture box to exit.

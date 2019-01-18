@@ -1,0 +1,65 @@
+C:\Users\045266\Dropbox\PROG-Madan Thapa\asteriods\asteriods\bin\Debug\asteriods.exe
+C:\Users\045266\Dropbox\PROG-Madan Thapa\asteriods\asteriods\bin\Debug\asteriods.pdb
+C:\Users\045266\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.frmgame.resources
+C:\Users\045266\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.frmlogin.resources
+C:\Users\045266\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.frmhigh.resources
+C:\Users\045266\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.Properties.Resources.resources
+C:\Users\045266\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.csproj.GenerateResource.Cache
+C:\Users\045266\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.exe
+C:\Users\045266\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.pdb
+C:\Users\045266\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.csprojResolveAssemblyReference.cache
+C:\Users\Rina\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.exe
+C:\Users\Rina\Dropbox\PROG-Madan Thapa\asteriods\asteriods\bin\Debug\asteriods.exe
+C:\Users\Rina\Dropbox\PROG-Madan Thapa\asteriods\asteriods\bin\Debug\asteriods.pdb
+C:\Users\Rina\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rina\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.frmgame.resources
+C:\Users\Rina\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.frmlogin.resources
+C:\Users\Rina\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.frmhigh.resources
+C:\Users\Rina\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.Properties.Resources.resources
+C:\Users\Rina\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rina\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rina\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.pdb
+C:\Users\pwearmouth\Dropbox\_Programming\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.exe
+C:\Users\pwearmouth\Dropbox\_Programming\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.pdb
+C:\Users\pwearmouth\Dropbox\_Programming\PROG-Madan Thapa\asteriods\asteriods\bin\Debug\asteriods.exe
+C:\Users\pwearmouth\Dropbox\_Programming\PROG-Madan Thapa\asteriods\asteriods\bin\Debug\asteriods.pdb
+C:\Users\pwearmouth\Dropbox\_Programming\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.csprojResolveAssemblyReference.cache
+C:\Users\pwearmouth\Dropbox\_Programming\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.frmgame.resources
+C:\Users\pwearmouth\Dropbox\_Programming\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.frmlogin.resources
+C:\Users\pwearmouth\Dropbox\_Programming\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.frmhigh.resources
+C:\Users\pwearmouth\Dropbox\_Programming\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.Properties.Resources.resources
+C:\Users\pwearmouth\Dropbox\_Programming\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.csproj.GenerateResource.Cache
+C:\Users\madan hero\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.exe
+C:\Users\madan hero\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.pdb
+C:\Users\madan hero\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.csprojResolveAssemblyReference.cache
+C:\Users\madan hero\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.frmgame.resources
+C:\Users\madan hero\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.frmlogin.resources
+C:\Users\madan hero\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.frmhigh.resources
+C:\Users\madan hero\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.Properties.Resources.resources
+C:\Users\madan hero\Dropbox\PROG-Madan Thapa\asteriods\asteriods\obj\x86\Debug\asteriods.csproj.GenerateResource.Cache
+C:\Users\madan hero\Dropbox\PROG-Madan Thapa\asteriods\asteriods\bin\Debug\asteriods.exe
+C:\Users\madan hero\Dropbox\PROG-Madan Thapa\asteriods\asteriods\bin\Debug\asteriods.pdb
+E:\ICT work\Programing C#\asteriods\obj\x86\Debug\asteriods.exe
+E:\ICT work\Programing C#\asteriods\obj\x86\Debug\asteriods.pdb
+E:\ICT work\Programing C#\asteriods\bin\Debug\asteriods.exe
+E:\ICT work\Programing C#\asteriods\bin\Debug\asteriods.pdb
+E:\ICT work\Programing C#\asteriods\obj\x86\Debug\asteriods.csprojResolveAssemblyReference.cache
+E:\ICT work\Programing C#\asteriods\obj\x86\Debug\asteriods.frmgame.resources
+E:\ICT work\Programing C#\asteriods\obj\x86\Debug\asteriods.frmlogin.resources
+E:\ICT work\Programing C#\asteriods\obj\x86\Debug\asteriods.frmhigh.resources
+E:\ICT work\Programing C#\asteriods\obj\x86\Debug\asteriods.Properties.Resources.resources
+E:\ICT work\Programing C#\asteriods\obj\x86\Debug\asteriods.csproj.GenerateResource.Cache
+C:\Users\Madan\Desktop\Programing C#\asteriods\bin\Debug\asteriods.exe
+C:\Users\Madan\Desktop\Programing C#\asteriods\bin\Debug\asteriods.pdb
+C:\Users\Madan\Desktop\Programing C#\asteriods\obj\x86\Debug\asteriods.csprojAssemblyReference.cache
+C:\Users\Madan\Desktop\Programing C#\asteriods\obj\x86\Debug\asteriods.frmgame.resources
+C:\Users\Madan\Desktop\Programing C#\asteriods\obj\x86\Debug\asteriods.frmlogin.resources
+C:\Users\Madan\Desktop\Programing C#\asteriods\obj\x86\Debug\asteriods.frmhigh.resources
+C:\Users\Madan\Desktop\Programing C#\asteriods\obj\x86\Debug\asteriods.Properties.Resources.resources
+C:\Users\Madan\Desktop\Programing C#\asteriods\obj\x86\Debug\asteriods.csproj.GenerateResource.cache
+C:\Users\Madan\Desktop\Programing C#\asteriods\obj\x86\Debug\asteriods.csproj.CoreCompileInputs.cache
+C:\Users\Madan\Desktop\Programing C#\asteriods\obj\x86\Debug\asteriods.exe
+C:\Users\Madan\Desktop\Programing C#\asteriods\obj\x86\Debug\asteriods.pdb
+C:\Users\Madan\Documents\GitHub\asteroidsbyDingdongmt\asteriods\obj\x86\Debug\asteriods.csprojAssemblyReference.cache
+C:\Users\Madan\Documents\GitHub\asteroidsbyDingdongmt\asteriods\obj\x86\Debug\asteriods.exe
+C:\Users\Madan\Documents\GitHub\asteroidsbyDingdongmt\asteriods\obj\x86\Debug\asteriods.pdb
